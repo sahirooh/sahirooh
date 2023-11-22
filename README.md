@@ -3,8 +3,6 @@
 <h3 align="center">A passionate fullstack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahirooh&label=Profile%20views&color=0e75b6&style=flat" alt="sahirooh" /> </p>
-
 <p align="left"> <a href="https://twitter.com/codetheearth" target="blank"><img src="https://img.shields.io/twitter/follow/codetheearth?logo=twitter&style=for-the-badge" alt="codetheearth" /></a> </p>
 
 - 🔭 I’m currently working on **AI Co-found**
