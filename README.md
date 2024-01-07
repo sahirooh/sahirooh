@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://sahirooh.io)
+[![Blue Gradient Header Banner](https://github.com/sahirooh/sahirooh/assets/101425007/a34774af-13c7-4140-9b96-65c3f7a33410)](https://sahirooh.io)
 <h1 align="center">Hi 👋, I'm Sahil Tembhurkar</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif">
+<img align="right" alt="Coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <a href="https://www.linkedin.com/in/sahirooh" target="blank"><img src="https://img.shields.io/twitter/follow/sahirooh?logo=linkedin&style=for-the-badge" alt="sahirooh" /></a> </p>
 
